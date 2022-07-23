@@ -1,1 +1,2 @@
-hello everyone to git 
+hello everyone to git
+this is gonna be fun 
